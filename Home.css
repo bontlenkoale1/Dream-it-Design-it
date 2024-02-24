@@ -30,3 +30,43 @@
 .reviews {
   text-align: center;
 }
+.review {
+          float:right;
+          width:25%;
+          height:500;
+        }
+        .client-reviews {
+           background-color: ghostwhite;
+       }
+       .reviews {
+          text-align: center;
+      }
+      .reviews h3 {
+        color:black;
+        font-size: 25px;
+        text-transform: capitalize;
+        text-align: center;
+        font-weight: 700;
+      }
+      .reviews img{
+        width:100px;
+        height:auto;
+        border-radius: 50px;
+        margin:10px;
+
+      }
+      .reviews p{
+        color:black;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+        margin-bottom: 10px;
+      }
+      .up-center-text h2{
+        text-align: center;
+        color:#0000;
+        font-size: 25px;
+        text-transform: capitalize;
+        font-weight: 700;
+        margin-bottom: 30px;
+      }
