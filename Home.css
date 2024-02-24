@@ -1,0 +1,32 @@
+* {
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .banner {
+    width: 80%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url(images/9bb1414f0514794416a9032466636f70.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  * .banner {
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url(images/9bb1414f0514794416a9032466636f70.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+}
+.content p {
+  color: black;
+}
+.client-reviews {
+  background-color: ghostwhite;
+}
+.reviews {
+  text-align: center;
+}
