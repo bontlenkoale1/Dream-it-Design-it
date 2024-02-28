@@ -7,3 +7,4 @@ Is an interior designing website where clients can get ahold of us at dream it-d
 ![Screenshot (38)](https://github.com/bontlenkoale1/Dream-it-Design-it/assets/126960560/2ba2c009-4650-4862-a7c7-7031b7e4b7c6)
 
 ![Screenshot (37)](https://github.com/bontlenkoale1/Dream-it-Design-it/assets/126960560/383fe9e2-6013-4970-aaf4-e5b540b0a64e)
+The website is for an interior design service called "Dream it-Design it." The sole purpose of the project is to have fun while creating it and incorporating frontend web development soft skills showcase various interior design categories
